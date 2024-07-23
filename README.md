@@ -1,1 +1,1 @@
-# xinyu notes for private
+# how to find ancestral haplotype 
